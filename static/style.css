@@ -6,12 +6,12 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f1f5f9;
-    color: #375379;
+    background-color: #5b9de0;
+    color: #4fd1b7;
 }
 
 header {
-    padding: 3rem 1.5rem;
+    padding: 10rem 1.5rem;
     color: #ffffff;
     background-color: #14253f;
     text-align: center;

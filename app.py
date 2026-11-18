@@ -29,7 +29,7 @@ def index():
                            selected_method=request.args.get("method", ""),
                            max_radius=request.args.get("max_radius", ""),
                            total=len(planets),
-                           error="")
+                           error="", workshop_message="A quick exploration of paradisiac places !")
 
 if __name__ == "__main__":
     app.run()
